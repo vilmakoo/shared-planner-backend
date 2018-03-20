@@ -1,0 +1,12 @@
+{
+  "name": "shared-planner-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Shared Planner -application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vilma Kangas",
+  "license": "ISC"
+}
